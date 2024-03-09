@@ -12,7 +12,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Justus0405&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="justus0405" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=justus0405&show_icons=true&theme=dracula&locale=en&layout=compact" alt="justus0405" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=justus0405&theme=dracula" alt="justus0405" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=Justus0405&theme=catppuccin-mocha" alt="justus0405" /></p>
 
  - - - 
 
