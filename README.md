@@ -10,11 +10,11 @@
 
  - - - 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=justus0405&show_icons=true&theme=dark&locale=en&layout=compact" alt="justus0405" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=justus0405&show_icons=true&theme=catppuccin_mocha&locale=en&layout=compact" alt="justus0405" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=justus0405&show_icons=true&theme=dark&locale=en" alt="justus0405" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=justus0405&show_icons=true&theme=catppuccin_mocha&locale=en" alt="justus0405" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=justus0405&theme=dark" alt="justus0405" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=justus0405&theme=catppuccin_mocha" alt="justus0405" /></p>
 
  - - - 
 
