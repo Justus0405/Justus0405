@@ -7,8 +7,18 @@
     <a href="https://www.curseforge.com/members/justus0405/projects"><img src="https://img.shields.io/curseforge/dt/787912?logo=Curseforge&colorA=1e1e2e&colorB=fab387&style=for-the-badge"></a>
 </p>
 
+<br>
+
 <p align="left">
     <a href="https://github.com/Justus0405?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=justus0405&show_icons=true&theme=catppuccin_mocha&locale=en&rank_icon=github"></a>
     <a href="https://github.com/Justus0405?tab=repositories"><img src="https://github-readme-streak-stats.herokuapp.com/?user=justus0405&theme=catppuccin_mocha"></a>
     <a href="https://github.com/Justus0405?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=justus0405&show_icons=true&theme=catppuccin_mocha&locale=en&layout=compact"></a>
+</p>
+
+<br>
+
+<p align="center">
+    <a href="https://github.com/Justus0405/i3wm-dotfiles"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Justus0405&repo=i3wm-dotfiles&theme=catppuccin_mocha"></a>
+    <a href="https://github.com/Justus0405/catppuccin-mintty"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Justus0405&repo=catppuccin-mintty&theme=catppuccin_mocha"></a>
+    <a href="https://github.com/Justus0405/nom-nom-nom"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Justus0405&repo=nom-nom-nom&theme=catppuccin_mocha"></a>
 </p>
