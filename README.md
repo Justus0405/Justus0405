@@ -11,6 +11,5 @@
 
 <p align="left">
     <a href="https://github.com/Justus0405?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=justus0405&show_icons=true&theme=catppuccin_mocha&locale=en&rank_icon=github"></a>
-    <a href="https://github.com/Justus0405?tab=repositories"><img src="https://github-readme-streak-stats.herokuapp.com/?user=justus0405&theme=catppuccin_mocha"></a>
     <a href="https://github.com/Justus0405?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=justus0405&show_icons=true&theme=catppuccin_mocha&locale=en&layout=compact"></a>
 </p>
