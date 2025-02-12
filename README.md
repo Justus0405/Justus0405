@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linux,arch,debian,vscode,idea,github,java,bash,html,css,pnpm,docker,arduino" width="60%">
+<img src="https://skillicons.dev/icons?i=linux,arch,debian,vscode,idea,github,java,bash,html,css,pnpm,docker,arduino" width="70%">
 </p>
 
 <p align="center">
