@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Justus0405" width="100%">
-<h3 align="center">Professional Bash Programmer and Self-Hosting Enthusiast</h3>
+<h3 align="center"><del>Professional</del> Bash Programmer and Self-Hosting Enthusiast</h3>
 
 <p align="center">
 <a href="https://discord.justus0405.com/"><img src="https://img.shields.io/discord/1370519315400495234?logo=Discord&colorA=1e1e2e&colorB=a6e3a1&style=for-the-badge"></a>
