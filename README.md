@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Justus0405" width="100%">
-<h3 align="center"><del>Professional</del> Bash Programmer and Self-Hosting Enthusiast</h3>
+<h3 align="center"><del>Professional</del> Programmer and Self-Hosting Enthusiast</h3>
 
 <p align="center">
 <a href="https://discord.justus0405.com/"><img src="https://img.shields.io/discord/1370519315400495234?logo=Discord&colorA=1e1e2e&colorB=a6e3a1&style=for-the-badge"></a>
@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linux,arch,debian,vscodium,idea,github,java,bash,html,css,pnpm,docker,arduino" width="70%">
+<img src="https://skillicons.dev/icons?i=linux,arch,debian,vscodium,idea,github,docker,bash,java,html,css,js,arduino" width="70%">
 </p>
 
 <p align="center">
@@ -17,4 +17,5 @@
 </p>
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Justus0405&theme=transparent" width="99%">
+<img src="https://github-readme-quotes-bay.vercel.app/quote?layout=socrates&quotesUrl=https://github.com/Justus0405/Justus0405/blob/main/customQuotes/quotes.json">
 </p>
