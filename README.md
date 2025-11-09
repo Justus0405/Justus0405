@@ -14,8 +14,8 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=justus0405&show_icons=true&hide_border=true&theme=catppuccin_mocha&locale=en&rank_icon=github" width="49%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=justus0405&show_icons=true&hide_border=true&theme=catppuccin_mocha&locale=en&layout=compact" width="37.3%">
+<img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quotesUrl=https://github.com/Justus0405/Justus0405/blob/main/customQuotes/quotes.json">
 </p>
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Justus0405&theme=transparent" width="99%">
-<img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quotesUrl=https://github.com/Justus0405/Justus0405/blob/main/customQuotes/quotes.json">
 </p>
