@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linux,arch,debian,vscodium,idea,github,docker,bash,java,html,css,js,arduino" width="70%">
+<img src="https://skillicons.dev/icons?i=linux,arch,debian,vscodium,idea,github,bash,java,docker,html,css,js,arduino" width="70%">
 </p>
 
 <p align="center">
@@ -17,5 +17,5 @@
 </p>
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Justus0405&theme=transparent" width="99%">
-<img src="https://github-readme-quotes-bay.vercel.app/quote?layout=socrates&quotesUrl=https://github.com/Justus0405/Justus0405/blob/main/customQuotes/quotes.json">
+<img src="https://github-readme-quotes-bay.vercel.app/quote?quotesUrl=https://github.com/Justus0405/Justus0405/blob/main/customQuotes/quotes.json">
 </p>
