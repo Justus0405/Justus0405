@@ -17,5 +17,5 @@
 </p>
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Justus0405&theme=transparent" width="99%">
-<img src="https://github-readme-quotes-bay.vercel.app/quote?quotesUrl=https://github.com/Justus0405/Justus0405/blob/main/customQuotes/quotes.json">
+<img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quotesUrl=https://github.com/Justus0405/Justus0405/blob/main/customQuotes/quotes.json">
 </p>
